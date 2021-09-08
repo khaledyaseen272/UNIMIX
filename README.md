@@ -7,7 +7,7 @@
 > I analyzed and explored dataset from UNIMIX records , this data icludes information about Transaction of ready mix concrete from UNIMIX company to thier clients. This data set contains information about 27108 operations, including 17 different variables like Plant Name, Project Name, project location, Order Quantity, Price, concrete strength ,Transaction Time and and other atrractive information to be explored.
 
 
-#### After loading data from CSV file of Ford Go-bike system Dataset, i started assessing data visually and programatically to be cleaned and I found some limitations i need to handle it before starting analysis , for instance
+#### After loading data from  XLSX file of Data Analyst Test Dataset of UNIMIX, i started assessing data visually and programatically to be cleaned and I found some limitations i need to handle it before starting analysis , for instance
 
 - drop operations with NAN values for Work_Order_Number, Customer_Name, Strength, and Cement_Type.
 - convert Work_Order_Number to object.
